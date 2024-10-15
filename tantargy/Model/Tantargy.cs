@@ -1,6 +1,6 @@
 ﻿namespace Tantargy.Model
 {
-    public class Tantargy
+    public class adatok
     {
         public int Azon { get; set; }
         public int Jegy { get; set; }
