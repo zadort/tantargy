@@ -21,13 +21,13 @@ namespace Tantargy
             reader.Read();
             do
             {
-                Car car = new Car();
+                Tantargy car = new Tantargy();
                 car.Id = reader.GetInt32(0);
                 car.Brand = reader.GetString(1);
                 car.Type = reader.GetString(2);
                 car.License = reader.GetString(3);
                 car.Date = reader.GetInt32(4);
-                cars.Add(car);
+                tantargyak.Add(Tantargy);
             } while (reader.Read());
 
 
