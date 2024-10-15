@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tantargy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8333578418027571f9692accad99caac4be1dd2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e925a307e1c406466ede44fdbaba3457e4254562")]
 [assembly: System.Reflection.AssemblyProductAttribute("tantargy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tantargy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

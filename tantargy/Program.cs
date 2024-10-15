@@ -1,5 +1,5 @@
 
-namespace tantargy
+namespace Tantargy
 {
     public class Program
     {
